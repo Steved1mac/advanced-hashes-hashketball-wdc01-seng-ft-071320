@@ -177,7 +177,7 @@ def player_stats(player_name)
   new_array = []
   game_hash.each do |key, value|
     value.each do |element|
-    binding.pry
+    
    
    
    
